@@ -50,17 +50,19 @@ citations/               BibTeX and citation metadata
 abstracts/               Paper abstracts
 evidence/                Research pipeline and evidence notes
 references/              Bibliography
+```
 
-Add research pipeline:
+## Start Here
 
-```bash
-cat > evidence/research-pipeline.md <<'EOF'
-# Research Pipeline
+1. Review the SSRN papers list.
+2. Use the research pipeline, abstracts, and citations together.
+3. Keep LaTeX, PDF, and conference materials aligned.
+4. Expand the evidence and publication tracking next.
 
-| Paper | Venue / Platform | Status | Reference |
-|---|---|---|---|
-| A Multi-Cloud Governance and Site Reliability Engineering Framework for FinTech Platforms | SSRN / FiCloud 2026 | Public / Submitted | SSRN 6663578 |
-| AI-Driven Observability and Reliability Framework for Multi-Cloud Financial Platforms | SSRN | Public | SSRN 6557159 |
-| A Standardized Multi-Cloud Governance Model for Policy Consistency and Drift Detection | SSRN / CloudCom 2026 | Public / Submitted | SSRN 6713338 |
-| Designing SLO-Driven Cloud Architectures | SSRN / AIBDCC 2026 | Public / Submitted | SSRN 6617678 |
-| A Governance Framework for Multi-Cloud Architectures | CISS 2026 / IEEE | Submitted | TAI-2026-Apr-A-00880 |
+## Shared Direction
+
+Use this repository as the publication and citation backbone for the broader ecosystem.
+
+## Core Content
+
+- [Publication Registry](evidence/publication-registry.md)
