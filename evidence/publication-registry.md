@@ -1,7 +1,5 @@
 # Publication Registry
 
-This registry gives the publication repository a practical front door for papers, citations, and research artifacts.
-
 ## Purpose
 
 Use this registry to track papers, abstracts, citation files, and publication-ready assets.

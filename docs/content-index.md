@@ -6,7 +6,7 @@ This index organizes the repo into a front door for publications, research artif
 
 ## Entry Points
 
-- [Publication Registry](evidence/publication-registry.md)
+- [Publication Registry](../evidence/publication-registry.md)
 - [Research Abstracts](../abstracts/research-abstracts.md)
 - [Research Pipeline](../evidence/research-pipeline.md)
 - [Bibliography](../references/bibliography.md)
@@ -23,4 +23,3 @@ This index organizes the repo into a front door for publications, research artif
 ## Shared Direction
 
 Use the same section structure as the other core repos so publications stay easy to link and reuse across the ecosystem.
-

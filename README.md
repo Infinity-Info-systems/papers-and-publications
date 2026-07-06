@@ -1,4 +1,4 @@
-# Papers and Publications
+# Papers And Publications
 
 ## Overview
 
@@ -37,6 +37,13 @@ This repository organizes public research papers, conference submissions, abstra
 - CISS 2026
 - IEEE Manuscript ID: TAI-2026-Apr-A-00880
 
+## How To Use This Repo
+
+1. Review the publication registry and research pipeline.
+2. Use the abstracts, citations, and bibliography together.
+3. Keep LaTeX, PDFs, and conference materials aligned.
+4. Record submission status as papers move from draft to published.
+
 ## Repository Structure
 
 ```text
@@ -52,17 +59,10 @@ evidence/                Research pipeline and evidence notes
 references/              Bibliography
 ```
 
-## Start Here
-
-1. Review the SSRN papers list.
-2. Use the research pipeline, abstracts, and citations together.
-3. Keep LaTeX, PDF, and conference materials aligned.
-4. Expand the evidence and publication tracking next.
-
-## Shared Direction
-
-Use this repository as the publication and citation backbone for the broader ecosystem.
-
 ## Core Content
 
 - [Publication Registry](evidence/publication-registry.md)
+- [Research Pipeline](evidence/research-pipeline.md)
+- [Research Abstracts](abstracts/research-abstracts.md)
+- [BibTeX](citations/bibtex.bib)
+- [Bibliography](references/bibliography.md)
