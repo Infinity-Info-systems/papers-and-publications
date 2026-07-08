@@ -3,6 +3,7 @@
 ## Purpose
 
 Use this registry to track papers, abstracts, citation files, and publication-ready assets.
+It should make it obvious what is published, what is in flight, and what still needs supporting material.
 
 ## Publication Sections
 
@@ -50,12 +51,26 @@ Use this registry to track papers, abstracts, citation files, and publication-re
 | Conference Submission Log | Evidence | In Progress |
 | Master Bibliography | Reference | Active |
 
+## Registry View
+
+| Track | Purpose | Owner | Status |
+| --- | --- | --- | --- |
+| SSRN | Public research papers | Research lead | Active |
+| Conferences | Submission and presentation tracking | Research lead | Active |
+| Bibliography | Citation source of truth | Documentation owner | Active |
+| Abstracts | Reusable paper summaries | Research lead | Active |
+| Citation Assets | BibTeX and metadata | Documentation owner | Active |
+
 ## Recommended Actions
 
 - keep one master citation source
 - link each publication to the relevant repo
 - maintain a submission log
 - separate published, draft, and planned items clearly
+
+## Outcome
+
+A strong registry makes it easier to publish, cite, and reuse research assets consistently.
 
 ## Related Artifacts
 

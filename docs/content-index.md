@@ -23,3 +23,4 @@ This index organizes the repo into a front door for publications, research artif
 ## Shared Direction
 
 Use the same section structure as the other core repos so publications stay easy to link and reuse across the ecosystem.
+If a page does not help identify, publish, or cite the work, move that detail to a more specific publication artifact.

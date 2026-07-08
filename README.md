@@ -3,6 +3,7 @@
 ## Overview
 
 This repository organizes public research papers, conference submissions, abstracts, diagrams, LaTeX sources, citation metadata, and publication evidence related to cloud governance, site reliability engineering, FinOps, disaster recovery, observability, and AI-driven reliability.
+It should also be easy to reference from the parent MCGR page so the publication library is visible as part of the larger ecosystem.
 
 ## Research Areas
 
@@ -44,6 +45,14 @@ This repository organizes public research papers, conference submissions, abstra
 3. Keep LaTeX, PDFs, and conference materials aligned.
 4. Record submission status as papers move from draft to published.
 
+## Where This Fits In The Ecosystem
+
+- [MCGR Framework](../MCGR-Framework/README.md)
+- [MCGR Public Page](../MCGR-Framework/README.md#featured-research-spotlight)
+- [Architecture Diagrams](../architecture-diagrams/README.md)
+- [Cloud Transformation Case Studies](../cloud-transformation-case-studies/README.md)
+- [Executive Technology Roadmaps](../executive-technology-roadmaps/README.md)
+
 ## Repository Structure
 
 ```text
@@ -66,3 +75,13 @@ references/              Bibliography
 - [Research Abstracts](abstracts/research-abstracts.md)
 - [BibTeX](citations/bibtex.bib)
 - [Bibliography](references/bibliography.md)
+
+## Quick View
+
+| Publication Area | Typical Content | Main Output |
+| --- | --- | --- |
+| SSRN | Working papers and abstracts | Public paper trail |
+| Conferences | Submission and acceptance tracking | Submission evidence |
+| Bibliography | Source management | Master reference list |
+| Abstracts | Topic and methodology summaries | Reusable research copy |
+| Citation Assets | BibTeX and DOI metadata | Consistent citation reuse |
