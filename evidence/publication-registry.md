@@ -5,6 +5,15 @@
 Use this registry to track papers, abstracts, citation files, and publication-ready assets.
 It should make it obvious what is published, what is in flight, and what still needs supporting material.
 
+## Publication Status Table
+
+| Item | Type | Status | Next Step |
+| --- | --- | --- | --- |
+| MCGR Framework Paper | SSRN | Published | Keep citation current |
+| FinOps Governance Paper | SSRN | Draft | Complete abstract and references |
+| Conference Submission Log | Evidence | In Progress | Update venue status |
+| Master Bibliography | Reference | Active | Maintain source integrity |
+
 ## Publication Sections
 
 ### 1. SSRN
@@ -67,6 +76,10 @@ It should make it obvious what is published, what is in flight, and what still n
 - link each publication to the relevant repo
 - maintain a submission log
 - separate published, draft, and planned items clearly
+
+## Registry Rule
+
+If an item cannot be tied to a title, venue, status, and reference set, it should not be considered publication-ready.
 
 ## Outcome
 

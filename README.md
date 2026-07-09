@@ -30,6 +30,13 @@ It should also be easy to reference from the parent MCGR page so the publication
 4. Designing SLO-Driven Cloud Architectures: A Framework for Balancing Reliability, Performance, and Cost in Enterprise Systems  
    https://papers.ssrn.com/abstract=6617678
 
+## Publication Flow
+
+```mermaid
+flowchart LR
+    A["Draft"] --> B["Abstract"] --> C["Citation"] --> D["Submission"] --> E["Publication"] --> F["Reuse"]
+```
+
 ## Conference Activity
 
 - CloudCom 2026
@@ -85,3 +92,13 @@ references/              Bibliography
 | Bibliography | Source management | Master reference list |
 | Abstracts | Topic and methodology summaries | Reusable research copy |
 | Citation Assets | BibTeX and DOI metadata | Consistent citation reuse |
+
+## Publication Layers
+
+| Layer | Question | Artifact |
+| --- | --- | --- |
+| Narrative | What is the paper about? | Abstract |
+| Evidence | What supports it? | Publication registry |
+| Citation | How is it referenced? | BibTeX / bibliography |
+| Venue | Where was it shared? | SSRN / conference log |
+| Reuse | How does it connect back? | Parent MCGR page link |
